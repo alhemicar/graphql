@@ -1,0 +1,7 @@
+bin/
+obj/
+out/
+PublishProfiles/
+
+appsettings.json
+appsettings.Development.json
